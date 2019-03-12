@@ -10,7 +10,7 @@ class Dog
 
  def initialize(bark)
    puts "Woof!"
- end 
+ end
 
 
 end
