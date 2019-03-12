@@ -8,10 +8,6 @@ class Dog
     @name
   end
 
- def initialize(bark)
-   puts "Woof!"
- end
-
 
 end
 
